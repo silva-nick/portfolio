@@ -7,7 +7,7 @@ module.exports = {
   organizationName: 'silva-nick', // Usually your GitHub org/user name.
   projectName: 'portfolio', // Usually your repo name.
   onBrokenLinks: 'throw',
-  trailingSlash: 'true',
+  trailingSlash: 'false',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   themeConfig: {
@@ -40,7 +40,7 @@ module.exports = {
           items: [
             {
               label: 'Home',
-              to: '/',
+              to: '/portfolio/',
             },
             {
               label: 'Resume',
@@ -80,7 +80,7 @@ module.exports = {
       'docusaurus-portfolio-plugin',
       {
         username: 'silva-nick',
-        path: '/',
+        path: '/portfolio/',
         pageTitle: 'My Site',
         pageDescription: 'About me.',
         userOptions: {},
