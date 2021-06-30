@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://silva-nick.github.io/portfolio/blog</id>
     <title>My Portfolio Blog</title>
-    <updated>2021-06-22T00:00:00.000Z</updated>
+    <updated>2021-06-29T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://silva-nick.github.io/portfolio/blog"/>
     <subtitle>My Portfolio Blog</subtitle>
     <icon>https://silva-nick.github.io/portfolio/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Big Launch!]]></title>
+        <id>big-launch</id>
+        <link href="https://silva-nick.github.io/portfolio/blog/big-launch"/>
+        <updated>2021-06-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After a few weeks of development, tweaking, and learning I am finally proud to announce my website and the first functional version of docusaurus-portfolio. I started this project as a way to learn about Docusaurus's code base while also spending time crafting my own personal site.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello World!]]></title>
         <id>blog-example</id>

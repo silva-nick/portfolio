@@ -4,9 +4,16 @@
         <title>My Portfolio Blog</title>
         <link>https://silva-nick.github.io/portfolio/blog</link>
         <description>My Portfolio Blog</description>
-        <lastBuildDate>Tue, 22 Jun 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Jun 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Big Launch!]]></title>
+            <link>https://silva-nick.github.io/portfolio/blog/big-launch</link>
+            <guid>big-launch</guid>
+            <pubDate>Tue, 29 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[After a few weeks of development, tweaking, and learning I am finally proud to announce my website and the first functional version of docusaurus-portfolio. I started this project as a way to learn about Docusaurus's code base while also spending time crafting my own personal site.]]></description>
+        </item>
         <item>
             <title><![CDATA[Hello World!]]></title>
             <link>https://silva-nick.github.io/portfolio/blog/blog-example</link>
