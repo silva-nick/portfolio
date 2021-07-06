@@ -4,9 +4,24 @@
         <title>My Portfolio Blog</title>
         <link>https://silva-nick.github.io/portfolio/blog</link>
         <description>My Portfolio Blog</description>
-        <lastBuildDate>Tue, 29 Jun 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jul 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <copyright>Copyright © 2021 Facebook, Inc.</copyright>
+        <item>
+            <title><![CDATA[How to create a custom plugin for Docusaurus]]></title>
+            <link>https://silva-nick.github.io/portfolio/blog/docusaurus-plugins</link>
+            <guid>docusaurus-plugins</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Introduction]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Understanding Latent Semantic Analysis]]></title>
+            <link>https://silva-nick.github.io/portfolio/blog/lsa</link>
+            <guid>lsa</guid>
+            <pubDate>Sun, 04 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Introduction to LSA:]]></description>
+        </item>
         <item>
             <title><![CDATA[Big Launch!]]></title>
             <link>https://silva-nick.github.io/portfolio/blog/big-launch</link>
