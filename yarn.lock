@@ -3451,19 +3451,19 @@ dns-txt@^2.0.2:
   dependencies:
     buffer-indexof "^1.0.0"
 
-docusaurus-portfolio-plugin@^2.2.3-alpha.0:
-  version "2.2.3-alpha.0"
-  resolved "https://registry.yarnpkg.com/docusaurus-portfolio-plugin/-/docusaurus-portfolio-plugin-2.2.3-alpha.0.tgz#54d6bd73108d1b7bce9c21fa07f16ac6c062e1f0"
-  integrity sha512-DJBF9cRvWG5nEAHpozaCZaLZ4eHMk2QSruEs2+r2xquFnzABrLB4qFnk4+5dArcqzgXD7l1JvGp4QtreQPD1TA==
+docusaurus-portfolio-plugin@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/docusaurus-portfolio-plugin/-/docusaurus-portfolio-plugin-1.0.1.tgz#93cd851f25416f24646d7f186d57208e4cd30190"
+  integrity sha512-aO08doRLx24MRkZRqfcgdyRmmJ99VolFVZESOAYNjyroc4GsWWmqOFMg7C0qLm8UYZQHE1GKMgWu5ccvZ93qAw==
   dependencies:
     "@types/node-fetch" "^2.5.10"
     add "^2.0.6"
     node-fetch "^2.6.1"
 
-docusaurus-portfolio-theme@^2.4.0-alpha.0:
-  version "2.4.0-alpha.0"
-  resolved "https://registry.yarnpkg.com/docusaurus-portfolio-theme/-/docusaurus-portfolio-theme-2.4.0-alpha.0.tgz#34e02ddf6bd612a79ce0e942626d42d6f412a588"
-  integrity sha512-S+KAW4OF3eW20qrTJlZF2Fsz4+HsScoHKSFaPEHxc86Os59J6H/FV+ZOXAqmVUhvJqgwTpAHPLuxi9DogUTz7g==
+docusaurus-portfolio-theme@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/docusaurus-portfolio-theme/-/docusaurus-portfolio-theme-1.0.2.tgz#1a7f13d21172d45b58c5ac61ea6805873c057236"
+  integrity sha512-pb7ClyRqGwaJ4T+RQo77GzFqTXVlafuHi4K0Vo9mQ8CxE6kx54xe3cR31OORxXIvNUvQGLbgviXOEGPxITt1fQ==
   dependencies:
     react-overlays "^5.0.1"
 
