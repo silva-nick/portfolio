@@ -13,10 +13,10 @@ module.exports = {
   themeConfig: {
     navbar: {
       title: 'Home',
-      logo: {
+      /*logo: {
         alt: 'My Logo',
         src: 'img/logo.svg',
-      },
+      },*/
       items: [
         {
           type: 'doc',
@@ -101,12 +101,10 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
           editUrl: 'https://github.com/silva-nick/portfolio/tree/main/blog',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
           editUrl: 'https://github.com/silva-nick/portfolio/tree/main/blog',
           postsPerPage: 4,
           feedOptions: {
