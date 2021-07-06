@@ -80,7 +80,7 @@ module.exports = {
       'docusaurus-portfolio-plugin',
       {
         username: 'silva-nick',
-        fullname: 'Nick Silva',
+        //fullname: 'Nick Silva',
         path: '/portfolio/',
         pageTitle: 'silva-nick',
         pageDescription: 'About me.',
@@ -102,14 +102,19 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+          editUrl: 'https://github.com/silva-nick/portfolio/tree/main/blog',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+          editUrl: 'https://github.com/silva-nick/portfolio/tree/main/blog',
+          postsPerPage: 4,
+          feedOptions: {
+            type: 'all',
+            copyright: `Copyright © ${new Date().getFullYear()} Facebook, Inc.`,
+          },
+          blogSidebarCount: 'ALL',
+          blogSidebarTitle: 'All posts',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
