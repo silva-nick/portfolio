@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://silva-nick.github.io/portfolio/blog</id>
-    <title>My Portfolio Blog</title>
+    <title>Nick Silva Blog</title>
     <updated>2021-07-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://silva-nick.github.io/portfolio/blog"/>
-    <subtitle>My Portfolio Blog</subtitle>
+    <subtitle>Nick Silva Blog</subtitle>
     <icon>https://silva-nick.github.io/portfolio/img/favicon.ico</icon>
     <rights>Copyright © 2021 Facebook, Inc.</rights>
     <entry>
