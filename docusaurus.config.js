@@ -1,6 +1,6 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Portfolio',
+  title: 'Nick Silva',
   tagline: 'A React-based static github website template.',
   url: 'https://silva-nick.github.io',
   baseUrl: '/portfolio/',
