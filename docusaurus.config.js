@@ -80,7 +80,6 @@ module.exports = {
       'docusaurus-portfolio-plugin',
       {
         username: 'silva-nick',
-        //fullname: 'Nick Silva',
         path: '/portfolio/',
         pageTitle: 'silva-nick',
         pageDescription: 'About me.',
