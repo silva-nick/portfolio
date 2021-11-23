@@ -86,7 +86,7 @@ module.exports = {
         userOptions: {},
         repoOptions: {
           type: 'all',
-          sort: 'updated',
+          sort: 'stargazers_count',
           direction: 'desc',
           numRepos: 10,
         },
