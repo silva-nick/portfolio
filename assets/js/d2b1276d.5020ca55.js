@@ -1,1 +1,0 @@
-(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[844],{6351:function(o){"use strict";o.exports=JSON.parse('{"allTagsPath":"/portfolio/blog/tags","slug":"data-science","name":"data science","count":1,"permalink":"/portfolio/blog/tags/data-science"}')}}]);

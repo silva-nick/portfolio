@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[453],{2017:function(e){e.exports=JSON.parse('{"pageTitle":"silva-nick","pageDescription":"About me."}')}}]);
