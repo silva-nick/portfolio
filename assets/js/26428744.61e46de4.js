@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[363],{5209:function(o){o.exports=JSON.parse('{"allTagsPath":"/portfolio/blog/tags","slug":"computer-languages","name":"computer languages","count":1,"permalink":"/portfolio/blog/tags/computer-languages"}')}}]);

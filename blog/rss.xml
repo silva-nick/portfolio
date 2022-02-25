@@ -4,10 +4,17 @@
         <title>Nick Silva Blog</title>
         <link>https://silva-nick.github.io/portfolio/blog</link>
         <description>Nick Silva Blog</description>
-        <lastBuildDate>Wed, 07 Jul 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <copyright>Copyright © 2021 Facebook, Inc.</copyright>
+        <copyright>Copyright © 2022 Facebook, Inc.</copyright>
+        <item>
+            <title><![CDATA[Introducing Bluefin - A statically-typed reflective programming language]]></title>
+            <link>https://silva-nick.github.io/portfolio/blog/docusaurus-plugins</link>
+            <guid>docusaurus-plugins</guid>
+            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Introduction]]></description>
+        </item>
         <item>
             <title><![CDATA[How to create a custom plugin for Docusaurus]]></title>
             <link>https://silva-nick.github.io/portfolio/blog/docusaurus-plugins</link>
